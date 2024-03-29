@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* h1 {
+    font-size: 3.3rem;
+    font-weight: 700;
+} */
+
+.jumbotron {
+    position: relative;
+    height: 100vh;
+    background-image: url(../img/IMG_0606.JPG);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: -64px; */
+}
+
+.custom-shape-divider-bottom-1708405040 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1708405040 svg {
+    position: relative;
+    display: block;
+    width: calc(108% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-bottom-1708405040 .shape-fill {
+    fill: #0D6EFD;
+}
+
+
+
+.custom-shape-divider-top-1708001911 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1708001911 svg {
+    position: relative;
+    display: block;
+    width: calc(111% + 1.3px);
+    height: 118px;
+}
+
+.custom-shape-divider-top-1708001911 .shape-fill {
+    fill: #0d6efd;
+}
+
+#tentang-kami {
+    position: relative;
+}
+
+.custom-shape-divider-bottom-1707280937 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1707280937 svg {
+    position: relative;
+    display: block;
+    width: calc(105% + 1.3px);
+    height: 155px;
+}
+
+.custom-shape-divider-bottom-1707280937 .shape-fill {
+    fill: #FFFFFF;
+}
+
+#berita {
+    position: relative;
+}
+
+.custom-shape-divider-bottom-1707281790 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1707281790 svg {
+    position: relative;
+    display: block;
+    width: calc(105% + 1.3px);
+    height: 76px;
+}
+
+.custom-shape-divider-bottom-1707281790 .shape-fill {
+    fill: #0D6EFD;
+}
+
+
+#infosekolah {
+    position: relative;
+}
+
+.custom-shape-divider-bottom-1708001261 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1708001261 svg {
+    position: relative;
+    display: block;
+    width: calc(108% + 1.3px);
+    height: 118px;
+
+}
+
+.custom-shape-divider-bottom-1708001261 .shape-fill {
+    fill: #FFFFFF;
+}
